@@ -25,21 +25,21 @@ Contraseña: 1234(para todos admin y ususarios)
 
 Usuarios Generales
 
-___________ACTIVOS___________  __________INACTIVOS__________
-1.Alberto                            27.Stella
-2.Belencita                          28.Andy
-3.Dani                               29.Pepe
-4.Estersita                          30.Quimi
-5.Javi                               31.Abi
-6.Juan                               32.Ciari
-7.Maci                               33.Martu
-8.Marcos                             34.Victoria
-9.Migue                              35.Laly
-10.Caleb                             36.Claudia
-11.Atila                             37.Paty
-12.Fabi                              38.Leila
-13.Annie                             39.Hanna
-14.Guada                             40.Murphys
+___________ACTIVOS___________ 
+1.Alberto            
+2.Belencita           
+3.Dani                    
+4.Estersita           
+5.Javi                     
+6.Juan                 
+7.Maci                  
+8.Marcos               
+9.Migue                
+10.Caleb             
+11.Atila         
+12.Fabi           
+13.Annie           
+14.Guada         
 15.Chris
 16.Ely
 17.Sol
@@ -53,3 +53,18 @@ ___________ACTIVOS___________  __________INACTIVOS__________
 25.Walter
 26.Zoe
 
+__________INACTIVOS__________
+27.Stella
+28.Andy
+29.Pepe
+30.Quimi
+31.Abi
+32.Ciari
+33.Martu
+34.Victoria
+35.Laly
+36.Claudia
+37.Paty
+38.Leila
+39.Hanna
+40.Murphys
