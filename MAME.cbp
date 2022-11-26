@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MAME" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MAME" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MAME" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ArbolUsuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ArbolUsuarios.h" />
+		<Unit filename="JumpFrog.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="JumpFrog.h" />
+		<Unit filename="ListaConsumos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ListaConsumos.h" />
+		<Unit filename="ListaHyM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ListaHyM.h" />
+		<Unit filename="MAME.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MAME.cbp" />
+		<Unit filename="MAME.h" />
+		<Unit filename="MAME.layout" />
+		<Unit filename="PingPong.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PingPong.h" />
+		<Unit filename="SnakeGame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SnakeGame.h" />
+		<Unit filename="TicketCompra.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TicketCompra.h" />
+		<Unit filename="TicketsTienda.dat" />
+		<Unit filename="Usuario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Usuario.h" />
+		<Unit filename="UsuariosGenerales.dat" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

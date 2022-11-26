@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1669074944 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\listahym.h
+	"ListaConsumos.h"
+
+1668977849 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\listaconsumos.h
+	"TicketCompra.h"
+
+1669427224 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\ticketcompra.h
+	"Usuario.h"
+
+1669427293 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1669078526 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\jumpfrog.c
+	"JumpFrog.h"
+
+1669071019 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\jumpfrog.h
+	"PingPong.h"
+
+1669064674 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\pingpong.h
+	"SnakeGame.h"
+
+1669063214 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\listaconsumos.c
+	"ListaConsumos.h"
+
+1669087589 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\listahym.c
+	"ListaHyM.h"
+
+1669074683 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\main.c
+	"MAME.h"
+
+1669064717 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\mame.h
+	"JumpFrog.h"
+
+1669157876 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\mame.c
+	"MAME.h"
+
+1669068916 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\pingpong.c
+	"PingPong.h"
+
+1669063311 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\snakegame.c
+	"SnakeGame.h"
+
+1669070919 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\ticketcompra.c
+	"TicketCompra.h"
+
+1669088842 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\mame\usuario.c
+	"Usuario.h"
+
